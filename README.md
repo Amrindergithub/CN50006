@@ -1,1 +1,1 @@
-# CN50006
+# CN50006 Weekly Lab Portfolio
